@@ -30,10 +30,6 @@ dist/
 *.pickle
 *.npy
 *.npz
-data/
-datasets/
-models/
-outputs/
 temp/
 
 # --- IDE & System ---
